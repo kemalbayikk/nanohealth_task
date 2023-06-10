@@ -11,3 +11,12 @@ Flutter project for Nano Health Suite.
 * I used Getx just for the snackbar. I think showing snackbars without context is very useful.
 
 * I used http package for API connection, flutter_rating_bar package for rating bar, google_fonts package for OpenSans font and expandable_bottom_sheet package for bottom sheet.
+
+## Screenshots
+
+<img width="412" alt="Ekran Resmi 2023-06-10 11 34 35" src="https://github.com/kemalbayikk/nanohealth_task/assets/45203337/3ca395c0-f46c-4516-a039-457b47fb9b3f">
+<img width="412" alt="Ekran Resmi 2023-06-10 11 35 01" src="https://github.com/kemalbayikk/nanohealth_task/assets/45203337/012432c0-000a-4ef1-9c35-91db3d0ae92d">
+<img width="412" alt="Ekran Resmi 2023-06-10 11 35 23" src="https://github.com/kemalbayikk/nanohealth_task/assets/45203337/4e86fcd5-324f-4adc-b8ef-2b2636e8f317">
+<img width="412" alt="Ekran Resmi 2023-06-10 11 35 30" src="https://github.com/kemalbayikk/nanohealth_task/assets/45203337/cd8968a7-87ca-460d-8acf-3372aebcefb4">
+
+
