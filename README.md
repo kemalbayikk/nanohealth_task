@@ -8,6 +8,6 @@ Flutter project for Nano Health Suite.
 
 * I had to make some changes at the design because most of the product images provided from the API have white background. Images at the Figma design have dark colored background and white backgrounded buttons looked good on these images. But white buttons on white background or dark colored texts on dark colored backgrounds didn't look good so I made little changes.
 
-* I used Getx for just the snackbars. I think showing snackbars without context is very useful.
+* I used Getx just for the snackbar. I think showing snackbars without context is very useful.
 
 * I used http package for API connection, flutter_rating_bar package for rating bar, google_fonts package for OpenSans font and expandable_bottom_sheet package for bottom sheet.
