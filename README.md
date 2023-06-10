@@ -1,16 +1,13 @@
-# nanohealth_task
+Flutter project for Nano Health Suite.
 
-A new Flutter project.
+## Some Notes
 
-## Getting Started
+* I did not use the getting single product functionality of the API, because after logging in I fetched all the products (If the number of products were more, I would prefer to bring in parts instead of bringing all the products.) to show in the all products page and when navigating to the detail page I selected this specific product from the list.
 
-This project is a starting point for a Flutter application.
+* I used Riverpod for the state management but I aslo have experience with other state management packages like Bloc, Provider, Mobx and Getx.
 
-A few resources to get you started if this is your first Flutter project:
+* I had to make some changes at the design because most of the product images provided from the API have white background. Images at the Figma design have dark colored background and white backgrounded buttons looked good on these images. But white buttons on white background or dark colored texts on dark colored backgrounds didn't look good so I made little changes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* I used Getx for just the snackbars. I think showing snackbars without context is very useful.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* I used http package for API connection, flutter_rating_bar package for rating bar, google_fonts package for OpenSans font and expandable_bottom_sheet package for bottom sheet.
